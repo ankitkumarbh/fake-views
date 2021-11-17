@@ -1,5 +1,5 @@
 # televiewbhbot - chat bot
-It is repository for chat bot: [@televiewbhbot](https://t.me/televiewbhbot)
+It is repository for chat bot: [@televiewbhb3ot](https://t.me/televiewbhb3ot)
 
 ## What it is?
 This repository can be imported to [Bots.Business](https://bots.business) as a worked chat bot.
